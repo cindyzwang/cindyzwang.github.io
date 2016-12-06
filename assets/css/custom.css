@@ -9,3 +9,7 @@
 #projects-heading {
   margin-top: 20px;
 }
+
+#contact-info ul {
+  list-style: none;
+}
