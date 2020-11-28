@@ -364,6 +364,11 @@
 		text-transform: lowercase;
 		font-size: 2.8em;
 	}
+
+	.title h3
+	{
+		font-size: 1.8em;
+	}
 	
 	.title .byline
 	{
@@ -489,12 +494,13 @@
 		overflow: hidden;
 		float: left;
 		width: 1050px;
-		padding: 3em 50px 5em 0px;
+		padding: 3em 0px 5em 0px;
 		background: #FFF;
 		text-align: center;
 	}
 
 	.section {
+		margin-top: 50px;
 		padding-left: 250px;
 		width: 800px;
 	}
